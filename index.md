@@ -1,4 +1,4 @@
-### This work will be presented at [ICML22](icml.cc) Workshop on [ML in Computational Design](http://mlcompdesign.github.io/).
+### This work will be presented at [ICML'22](icml.cc) Workshop on [ML in Computational Design](http://mlcompdesign.github.io/).
 ![GIF](/mlcd22-gnn4robots/docs/assets/gnn4robots-icml22mlcd.gif)
 
 ## Abstract
@@ -7,8 +7,9 @@ We propose a learning framework to find the representation of a robot's kinemati
 ### Learn more here
 [\[arXiv\]](https://arxiv.org/abs/2109.07543)
 [\[PDF\]](/mlcd22-gnn4robots/docs/assets/gnn4robots-icml22mlcd.pdf)
-[\[Video\]](/mlcd22-gnn4robots/docs/assets/icml22-mlcd-gnnrobot.mp4)
-![\[Poster\]](/mlcd22-gnn4robots/docs/assets/gnn4robots-icml22mlcd-poster.pdf)
+[\[Video (MP4)\]](/mlcd22-gnn4robots/docs/assets/icml22-mlcd-gnnrobot.mp4)
+[\[Poster (PDF)\]](/mlcd22-gnn4robots/docs/assets/gnn4robots-icml22mlcd-poster.pdf)
+![\[Poster\]](/mlcd22-gnn4robots/docs/assets/gnn4robots-icml22mlcd-poster.jpg)
 
 ### Contact
 [taerykim@gatech.edu](mailto:taerykim@gatech.edu)
